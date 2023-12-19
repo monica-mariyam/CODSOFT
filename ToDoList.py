@@ -110,10 +110,6 @@ delButton = Button(
 )
 delButton.pack(fill = BOTH, expand = True, side = LEFT)
 
-
-
-
-
 #run the main window loop
 mw.mainloop()
 
