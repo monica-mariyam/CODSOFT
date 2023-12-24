@@ -7,3 +7,4 @@ Domain : Python programming
 
 Tasks completed during this internship : 
 1. To-Do List
+2. Calculator
