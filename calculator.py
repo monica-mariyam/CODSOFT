@@ -1,5 +1,5 @@
 '''
-TASK 2 - Calculator
+TASK 2 : Calculator
 A simple calculator with basic arithmetic operations.
 Prompt user to input two numbers and an operation choice.
 Perform the calculation and display the result.
