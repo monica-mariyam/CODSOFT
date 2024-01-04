@@ -1,4 +1,13 @@
-#contact book
+'''
+TASK 5 : CONTACT BOOK
+Functionalities :-
+       1. Add Contact
+       2. View Contact List
+       3. Search Contact
+       4. Update Contact
+       5. Delete Contact
+'''
+
 contactList = []
 class Contact:
     def __init__(self):
