@@ -1,4 +1,6 @@
-#rock-paper-scissors game
+'''
+TASK 4 : ROCK-PAPER-SCISSORS GAME
+'''
 import random
 print("-"*50,"Lets play rock-paper-scissors!!!","-"*50)
 choices = ['r','s','p']
